@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Waifu Clicker</string>
+    <string name="waifu">Waifu</string>
+    <string name="like">like</string>
+    <string name="waifu_power">Waifu power: %d</string>
+    <string name="waifu_liked_key">WAIFU_POWER</string>
+
+</resources>
